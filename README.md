@@ -1,5 +1,6 @@
 # Kneel-Workers!
 디펜스요소가 가미된 미로탈출 어드벤처
+![캡처 (14)](https://user-images.githubusercontent.com/93479286/150279032-fa6dc30d-f8d6-481d-bab7-9dec77886a2c.png)
 유료 에셋 저작권 문제로 스크립트만 업로드합니다! 양해 부탁드립니다.
 
 20201.09.27~2021.10.01(1주)
@@ -20,7 +21,6 @@
 - 전체 컨셉 및 스토리 기획
 - Enemy(Workers) 파트 개발
 
-![캡처 (14)](https://user-images.githubusercontent.com/93479286/150279032-fa6dc30d-f8d6-481d-bab7-9dec77886a2c.png)
 ![캡처 (11)](https://user-images.githubusercontent.com/93479286/150279044-a59be569-73e1-4c5c-b10d-60168d2502be.png)
 ![캡처 (12)](https://user-images.githubusercontent.com/93479286/150279050-d4caec54-7e7b-415b-b732-b980b7b1ed2f.png)
 ![캡처 (13)](https://user-images.githubusercontent.com/93479286/150279058-42387390-de8b-45af-a432-55dc6912fa1c.png)
